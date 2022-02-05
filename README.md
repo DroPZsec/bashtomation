@@ -9,3 +9,6 @@ Contact me on Github if you have a question!
 This script is not coded for illegal activitys, just pentest devices where you have the rights, or your own Network!
 Don`t damage any Server with this script! You are not anonymized, everybody yout attack will save your IP, MAC, Broadcast and IPv6 Addresses in Log!!
 
+If you a question / annotation please write an e-mail to: DroPZsec@outlook.com
+
+Thank you for download / use / inspect my tool!
